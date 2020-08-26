@@ -10,5 +10,5 @@ This project was done using [GIMP](https://www.gimp.org/) and [Inkscape](https:/
 
 ## Credits
 
-Indero -> Idea & Support
-Rosthouse -> All the pixely stuff
+- Indero -> Idea & Support
+- Rosthouse -> All the pixely stuff
