@@ -1,51 +1,6 @@
 {
   "content": [
 	{
-	  "path": "de-DE.locPak",
-	  "size": 2279,
-	  "date": 1597710302000
-	},
-	{
-	  "path": "en-US.locPak",
-	  "size": 1801,
-	  "date": 1597710302000
-	},
-	{
-	  "path": "es-ES.locPak",
-	  "size": 2075,
-	  "date": 1597710302000
-	},
-	{
-	  "path": "fr-FR.locPak",
-	  "size": 2030,
-	  "date": 1597710302000
-	},
-	{
-	  "path": "it-IT.locPak",
-	  "size": 1998,
-	  "date": 1597710302000
-	},
-	{
-	  "path": "pl-PL.locPak",
-	  "size": 2187,
-	  "date": 1597710302000
-	},
-	{
-	  "path": "pt-BR.locPak",
-	  "size": 2004,
-	  "date": 1597710302000
-	},
-	{
-	  "path": "ru-RU.locPak",
-	  "size": 2966,
-	  "date": 1597710306000
-	},
-	{
-	  "path": "zh-CN.locPak",
-	  "size": 1775,
-	  "date": 1597710304000
-	},
-	{
 	  "path": "SimObjects/Airplanes/Asobo_A320_FDI/aircraft.cfg",
 	  "size": 4084,
 	  "date": 1599767155822
