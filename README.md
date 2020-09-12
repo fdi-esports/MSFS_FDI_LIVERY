@@ -2,7 +2,7 @@
 
 This livery was created for fun for the [FDI Esports Team](https://twitter.com/fdi_esports). 
 
-![Livery Preview](SimObjects/Airplanes/Asobo_A320_NEO/TEXTURE.FDI/thumbnail.jpg)
+![Livery Preview](SimObjects/Airplanes/Asobo_A320_FDI/TEXTURE.FDI/thumbnail.jpg)
 
 ## Used software
 
