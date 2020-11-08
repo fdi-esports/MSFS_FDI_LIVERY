@@ -1,74 +1,84 @@
 {
-  "content": [
-	{
-	  "path": "SimObjects/Airplanes/Asobo_A320_FDI/aircraft.cfg",
-	  "size": 4084,
-	  "date": 1599767155822
-	},
-	{
-	  "path": "SimObjects/Airplanes/Asobo_A320_FDI/TEXTURE.FDI/A320NEO_AIRFRAME_ENGINES_ALBD.PNG.DDS",
-	  "size": 22369748,
-	  "date": 1598268226550
-	},
-	{
-	  "path": "SimObjects/Airplanes/Asobo_A320_FDI/TEXTURE.FDI/A320NEO_AIRFRAME_ENGINES_ALBD.PNG.DDS.json",
-	  "size": 102,
-	  "date": 1596825798000
-	},
-	{
-	  "path": "SimObjects/Airplanes/Asobo_A320_FDI/TEXTURE.FDI/A320NEO_AIRFRAME_FUSELAGE_ALBD.PNG.DDS",
-	  "size": 22369748,
-	  "date": 1598268320951
-	},
-	{
-	  "path": "SimObjects/Airplanes/Asobo_A320_FDI/TEXTURE.FDI/A320NEO_AIRFRAME_FUSELAGE_ALBD.PNG.DDS.json",
-	  "size": 102,
-	  "date": 1596825798000
-	},
-	{
-	  "path": "SimObjects/Airplanes/Asobo_A320_FDI/TEXTURE.FDI/A320NEO_AIRFRAME_LIVERY_ALBD.PNG.DDS",
-	  "size": 22369748,
-	  "date": 1598203051425
-	},
-	{
-	  "path": "SimObjects/Airplanes/Asobo_A320_FDI/TEXTURE.FDI/A320NEO_AIRFRAME_LIVERY_ALBD.PNG.DDS.json",
-	  "size": 119,
-	  "date": 1596102912000
-	},
-	{
-	  "path": "SimObjects/Airplanes/Asobo_A320_FDI/TEXTURE.FDI/A320NEO_AIRFRAME_LIVERY_TEXTS_ALBD.PNG.dds",
-	  "size": 22369748,
-	  "date": 1598263571962
-	},
-	{
-	  "path": "SimObjects/Airplanes/Asobo_A320_FDI/TEXTURE.FDI/A320NEO_AIRFRAME_LIVERY_TEXTS_ALBD.PNG.DDS.json",
-	  "size": 119,
-	  "date": 1596102912000
-	},
-	{
-	  "path": "SimObjects/Airplanes/Asobo_A320_FDI/TEXTURE.FDI/A320NEO_AIRFRAME_WINGS_ALBD.PNG.DDS",
-	  "size": 22369748,
-	  "date": 1598204088560
-	},
-	{
-	  "path": "SimObjects/Airplanes/Asobo_A320_FDI/TEXTURE.FDI/A320NEO_AIRFRAME_WINGS_ALBD.PNG.DDS.json",
-	  "size": 102,
-	  "date": 1596825798000
-	},
-	{
-	  "path": "SimObjects/Airplanes/Asobo_A320_FDI/TEXTURE.FDI/texture.CFG",
-	  "size": 187,
-	  "date": 1597004544000
-	},
-	{
-	  "path": "SimObjects/Airplanes/Asobo_A320_FDI/TEXTURE.FDI/thumbnail.jpg",
-	  "size": 100569,
-	  "date": 1598268890976
-	},
-	{
-	  "path": "SimObjects/Airplanes/Asobo_A320_FDI/TEXTURE.FDI/thumbnail_small.jpg",
-	  "size": 45718,
-	  "date": 1598269080648
-	}
-  ]
+	"content": [
+		{
+			"path": "SimObjects/Airplanes/Asobo_A320_FDI/aircraft.cfg",
+			"size": 4084,
+			"date": 1599767155822
+		},
+		{
+			"path": "SimObjects/AirPlanes/Asobo_A320_FDI/MODEL.FDI/model.cfg",
+			"size": 1,
+			"date": 132400215225729553
+		},
+		{
+			"path": "SimObjects/AirPlanes/Asobo_A320_FDI/MODEL.FDI_AI/model.cfg",
+			"size": 1,
+			"date": 132400215225729553
+		},
+		{
+			"path": "SimObjects/Airplanes/Asobo_A320_FDI/TEXTURE.FDI/A320NEO_AIRFRAME_ENGINES_ALBD.PNG.DDS",
+			"size": 22369748,
+			"date": 1598268226550
+		},
+		{
+			"path": "SimObjects/Airplanes/Asobo_A320_FDI/TEXTURE.FDI/A320NEO_AIRFRAME_ENGINES_ALBD.PNG.DDS.json",
+			"size": 102,
+			"date": 1596825798000
+		},
+		{
+			"path": "SimObjects/Airplanes/Asobo_A320_FDI/TEXTURE.FDI/A320NEO_AIRFRAME_FUSELAGE_ALBD.PNG.DDS",
+			"size": 22369748,
+			"date": 1598268320951
+		},
+		{
+			"path": "SimObjects/Airplanes/Asobo_A320_FDI/TEXTURE.FDI/A320NEO_AIRFRAME_FUSELAGE_ALBD.PNG.DDS.json",
+			"size": 102,
+			"date": 1596825798000
+		},
+		{
+			"path": "SimObjects/Airplanes/Asobo_A320_FDI/TEXTURE.FDI/A320NEO_AIRFRAME_LIVERY_ALBD.PNG.DDS",
+			"size": 22369748,
+			"date": 1598203051425
+		},
+		{
+			"path": "SimObjects/Airplanes/Asobo_A320_FDI/TEXTURE.FDI/A320NEO_AIRFRAME_LIVERY_ALBD.PNG.DDS.json",
+			"size": 119,
+			"date": 1596102912000
+		},
+		{
+			"path": "SimObjects/Airplanes/Asobo_A320_FDI/TEXTURE.FDI/A320NEO_AIRFRAME_LIVERY_TEXTS_ALBD.PNG.dds",
+			"size": 22369748,
+			"date": 1598263571962
+		},
+		{
+			"path": "SimObjects/Airplanes/Asobo_A320_FDI/TEXTURE.FDI/A320NEO_AIRFRAME_LIVERY_TEXTS_ALBD.PNG.DDS.json",
+			"size": 119,
+			"date": 1596102912000
+		},
+		{
+			"path": "SimObjects/Airplanes/Asobo_A320_FDI/TEXTURE.FDI/A320NEO_AIRFRAME_WINGS_ALBD.PNG.DDS",
+			"size": 22369748,
+			"date": 1598204088560
+		},
+		{
+			"path": "SimObjects/Airplanes/Asobo_A320_FDI/TEXTURE.FDI/A320NEO_AIRFRAME_WINGS_ALBD.PNG.DDS.json",
+			"size": 102,
+			"date": 1596825798000
+		},
+		{
+			"path": "SimObjects/Airplanes/Asobo_A320_FDI/TEXTURE.FDI/texture.CFG",
+			"size": 187,
+			"date": 1597004544000
+		},
+		{
+			"path": "SimObjects/Airplanes/Asobo_A320_FDI/TEXTURE.FDI/thumbnail.jpg",
+			"size": 100569,
+			"date": 1598268890976
+		},
+		{
+			"path": "SimObjects/Airplanes/Asobo_A320_FDI/TEXTURE.FDI/thumbnail_small.jpg",
+			"size": 45718,
+			"date": 1598269080648
+		}
+	]
 }
