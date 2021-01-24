@@ -1,12 +1,7 @@
 {
-  "dependencies": [
-    {
-      "name": "asobo-aircraft-a320-neo",
-      "package_version": "0.1.51"
-    }
-  ],
+  "dependencies": [],
   "content_type": "AIRCRAFT",
-  "title": "FDI AIRWAYS A320",
+  "title": "FDI Airways A320",
   "manufacturer": "Airbus",
   "creator": "FDI Studios",
   "package_version": "3.0.0",
